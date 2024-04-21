@@ -120,4 +120,6 @@ with st.container():
         st.markdown(contactform, unsafe_allow_html=True)
     with right1:
         st.empty()
+
+    st.write("psst! message me with the form to get your own website, paypal or rbx.")
     
